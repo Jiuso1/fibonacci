@@ -14,4 +14,4 @@ Then, sadly, we concluded that we still live in the computing prehistory.
 
 ## Authors
 
-[Manuel Camacho Campos (iBManu)](https://github.com/iBManu) and [Jesús García Gutiérrez (Jiuso)](https://github.com/Jiuso1)
+[Manuel Camacho Campos (iBManu)](https://github.com/iBManu) and [Jesús García Gutiérrez (Jiuso)](https://github.com/Jiuso1).
